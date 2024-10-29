@@ -1,0 +1,50 @@
+.header {
+    background-color: black;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+.wishlist {
+    display: flex;
+    align-items: center;
+    color: gold;
+}
+
+.wishlist button {
+    background-color: gold;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-right: 10px;
+}
+
+.wishlist button:hover {
+    background-color: darkgoldenrod;
+}
+
+.fa-icon {
+    margin-left:20px;
+    color: gold;
+}
+
+
+.wishlist button:hover {
+    background-color:orangered; 
+}
+
+.fa-icon {
+    margin-right: 25px; 
+    color:gold; 
+}

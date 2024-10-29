@@ -1,0 +1,11 @@
+[
+    {
+    "id": 1,
+    "title": "The Substance",
+    "releaseDate": "2004",
+    "genre": "string",
+    "price": "29",
+    "rating": 5,
+    "image": "./thesubstance.jpg"
+    }
+]
